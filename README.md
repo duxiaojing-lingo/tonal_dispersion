@@ -3,7 +3,7 @@
 
 This repository contains the analysis scripts and visualizations used in the dissertation:  
 **_Checked and Neutral Tones in Huoji Chinese: A Multidimensional Analysis of Pitch, Duration, and Phonation_**,  
-submitted for the MPhil in Theoretical and Applied Linguistics, University of Cambridge, 2025.
+submitted for the MPhill in Theoretical and Applied Linguistics, University of Cambridge, 2025.
 
 ## What This Project Does
 
@@ -71,7 +71,7 @@ If you encounter issues or have questions about this repository, please reach ou
 
 If you use this project in your own work, please cite:
 
-> Du, Xiaojing. 2025. *Checked and Neutral Tones in Huoji Chinese: A Multidimensional Analysis of Pitch, Duration, and Phonation*. MPhil Thesis, University of Cambridge.
+> Du, Xiaojing. 2025. *Checked and Neutral Tones in Huoji Chinese: A Multidimensional Analysis of Pitch, Duration, and Phonation*. MPhill Thesis, University of Cambridge.
 
 ---
 
