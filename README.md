@@ -1,12 +1,14 @@
 
-# Tonal Dispersion in Huoji Chinese
+# Tonal Dispersion 
 
 This repository contains the analysis scripts and visualizations used in the dissertation:  
+
 **Checked and Neutral Tones in Huoji Chinese:**  
 **A Multidimensional Analysis of Pitch, Duration, and Phonation** 
+
 submitted for the MPhill in Theoretical and Applied Linguistics, University of Cambridge, 2025.
 
-## What This Project Does
+## What this Project Does?!!
 
 This project documents and analyzes marginal tonal categories in the Huoji dialect (a Jin variety of Northern Chinese), focusing on:
 - **Historical Checked Tone (T5)**
@@ -14,7 +16,7 @@ This project documents and analyzes marginal tonal categories in the Huoji diale
 
 It uses a combination of acoustic phonetic measurements—F0, duration, H1–H2, and HNR—to examine how these tones behave and interact in monosyllabic and disyllabic contexts. The project employs unsupervised clustering and multidimensional scaling (MDS) to visualize tonal dispersion.
 
-## Why This Project Is Useful
+## Why you should give this project a try?!!
 
 - Offers a reproducible pipeline for analyzing tonal contrasts with phonation features.
 - Bridges gaps between traditional tonal theory and non-modal phonation.
