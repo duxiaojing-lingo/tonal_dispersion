@@ -2,7 +2,8 @@
 # Tonal Dispersion in Huoji Chinese
 
 This repository contains the analysis scripts and visualizations used in the dissertation:  
-**_Checked and Neutral Tones in Huoji Chinese: A Multidimensional Analysis of Pitch, Duration, and Phonation_**,  
+**_Checked and Neutral Tones in Huoji Chinese:
+A Multidimensional Analysis of Pitch, Duration, and Phonation_**,  
 submitted for the MPhill in Theoretical and Applied Linguistics, University of Cambridge, 2025.
 
 ## What This Project Does
